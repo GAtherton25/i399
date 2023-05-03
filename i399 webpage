@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Griffin Atherton</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		/* Insert any styling you want here */
+	</style>
+</head>
+<body>
+	<h1>Griffin Atherton</h1>
+	<p>Hi, my name is Griffin and I'm a junior studying Informatics. I'm originally from Crown Point, Indiana, and I'm passionate about technology and its impact on society. In my free time, I enjoy playing basketball and hiking.</p>
+	<h2>Personal Information</h2>
+	<ul>
+		<li><strong>Hometown:</strong> Crown Point, Indiana</li>
+		<li><strong>Year:</strong> Junior</li>
+		<li><strong>Academic and Personal Interests:</strong> My academic interests include data analysis and visualization, user experience design, and software development. Outside of school, I enjoy reading, watching movies, and traveling.</li>
+		<li><strong>Summer Plans:</strong> This summer, I'll be interning at a tech company and working on a personal project related to data analysis.</li>
+		<li><strong>Top 5 Things Learned:</strong>
+			<ol>
+				<li>Scrum: The Agile methodology for managing and completing projects in a more efficient and effective manner.</li>
+				<li>AWS: Amazon Web Services, a cloud computing platform that allows for scalable and flexible infrastructure.</li>
+				<li>Project Management: The process of planning, organizing, and overseeing resources to achieve specific goals within a project.</li>
+				<li>Networking: The practice of connecting devices and systems to enable communication and data exchange.</li>
+				<li>AWS EC2 and DevOps: EC2 is a service offered by AWS that allows for scalable computing capacity, while DevOps is a combination of software development and IT operations that aims to shorten the systems development life cycle.</li>
+			</ol>
+		</li>
+	</ul>
+	<h2>Images</h2>
+	<p>Insert images here</p>
+</body>
+</html>
